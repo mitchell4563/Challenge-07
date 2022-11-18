@@ -11,12 +11,12 @@ const questions = [
   },
   {
     type: "input",
-    name: "description",
+    name: "installation",
     message: "Please enter installation instructions: ",
   },
   {
     type: "input",
-    name: "installation",
+    name: "description",
     message: "Project Description: ",
   },
   {
