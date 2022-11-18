@@ -12,20 +12,20 @@
 - [License](#License)
 
 ## Description
-Node.js application that prompts for and accepts user input and turns it into a high-quality README. 
+node.js app that turns user input into a high-quality README
 
 ## Usage
-run node index in the terminal
+respond to prompts accordingly
 
 ## Installation
-run npm i after cloning to ensure all required packages are installed
+npm i to install required packages
 
 ## Contributions
 N/A
 
 ## Questions
-Email - mitchellwood11@gmail.com<br>
-Github - mitchell4563
+Email - sample@email.com<br>
+Github - github123
 
 ## License
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
