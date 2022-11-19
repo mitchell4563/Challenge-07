@@ -15,7 +15,7 @@
 node.js app that turns user input into a high-quality README
 
 ## Usage
-respond to prompts accordingly
+https://drive.google.com/file/d/14-vbMNy7qiNkA_m8bqmDPQiL6q1d0eUJ/view
 
 ## Installation
 npm i to install required packages
